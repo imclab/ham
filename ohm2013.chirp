@@ -1,0 +1,346 @@
+<?xml version="1.0"?>
+<radio version="0.1.1">
+  <memories>
+    <memory location="0">
+      <shortName>REPEAT</shortName>
+      <longName>REPEATER</longName>
+      <frequency units="MHz">439.000000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">7.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="1">
+      <shortName>QRV 1</shortName>
+      <longName>QRV 1</longName>
+      <frequency units="MHz">145.575000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="2">
+      <shortName>QRV 2</shortName>
+      <longName>QRV 2</longName>
+      <frequency units="MHz">433.575000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="3">
+      <shortName>1200 F</shortName>
+      <longName>1200 FSK</longName>
+      <frequency units="MHz">145.950000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="4">
+      <shortName>2400 F</shortName>
+      <longName>2400 FSK</longName>
+      <frequency units="MHz">430.725000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="10">
+      <shortName>PI2ALK</shortName>
+      <longName>PI2ALK</longName>
+      <frequency units="MHz">430.375000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>positive</duplex>
+      <offset units="MHz">1.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="11">
+      <shortName>PI2ASD</shortName>
+      <longName>PI2ASD</longName>
+      <frequency units="MHz">430.200000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>positive</duplex>
+      <offset units="MHz">1.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="12">
+      <shortName>PI3ALK</shortName>
+      <longName>PI3ALK</longName>
+      <frequency units="MHz">145.600000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="13">
+      <shortName>PI3ZDM</shortName>
+      <longName>PI3ZDM</longName>
+      <frequency units="MHz">145.662500</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>rtone</squelchSetting>
+      <duplex>negative</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="20">
+      <shortName>PMR1</shortName>
+      <longName>PMR1</longName>
+      <frequency units="MHz">446.006250</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="21">
+      <shortName>PMR2</shortName>
+      <longName>PMR2</longName>
+      <frequency units="MHz">446.018750</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="22">
+      <shortName>PMR3</shortName>
+      <longName>PMR3</longName>
+      <frequency units="MHz">446.031250</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="23">
+      <shortName>PMR4</shortName>
+      <longName>PMR4</longName>
+      <frequency units="MHz">446.043750</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="24">
+      <shortName>PMR5</shortName>
+      <longName>PMR5</longName>
+      <frequency units="MHz">446.056250</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="25">
+      <shortName>PMR6</shortName>
+      <longName>PMR6</longName>
+      <frequency units="MHz">446.068750</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="26">
+      <shortName>PMR7</shortName>
+      <longName>PMR7</longName>
+      <frequency units="MHz">446.081250</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+    <memory location="27">
+      <shortName>PMR8</shortName>
+      <longName>PMR8</longName>
+      <frequency units="MHz">446.093750</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>88.5</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting/>
+      <duplex>none</duplex>
+      <offset units="MHz">0.600000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
+  </memories>
+  <banks/>
+</radio>
