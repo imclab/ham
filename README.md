@@ -2,11 +2,11 @@
 
 # DISCLAIMER
 
-For transmitting on these frequencies, you need a valid HAM radio license is
-REQUIRED. If you are using the PMR frequencies, you must obseve the regulations
-for ISM band usage and restrict power to a maximum of 500 mW ERP. Failing to
-comply with these regulations may result in a fine up to &euro; 45.000,-. You
-have been warned!
+For transmitting on these frequencies, valid HAM radio license is REQUIRED. If
+you are using the PMR frequencies, you must obseve the regulations for ISM band
+usage and restrict power to a maximum of 500 mW ERP. Failing to comply with
+these regulations may result in a fine up to &euro; 45.000,-. You have been
+warned!
 
 According to
 [CEPT TR 61-01](http://www.erodocdb.dk/Docs/doc98/official/pdf/TR6101.PDF) page 
