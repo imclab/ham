@@ -11,7 +11,9 @@ warned!
 According to
 [CEPT TR 61-01](http://www.erodocdb.dk/Docs/doc98/official/pdf/TR6101.PDF) page 
 6, HAMs with a CEPT radio amateur licence (Full, with or without Morse) are to
-prefix their callsign with PA/ when transmitting from the Netherlands.
+prefix their callsign with `PA/` when transmitting from the Netherlands.
+Holders of a CEPT Novice License are to prefix their callsign with `PD/`, local
+license equivalent class would be "N".
 
 # About
 
