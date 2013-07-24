@@ -36,7 +36,7 @@
         <polarity>NN</polarity>
       </squelch>
       <squelchSetting/>
-      <duplex>negative</duplex>
+      <duplex>none</duplex>
       <offset units="MHz">0.000000</offset>
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
