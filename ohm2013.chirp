@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <radio version="0.1.1">
   <memories>
-    <memory location="0">
+    <memory location="1">
       <shortName>REPEAT</shortName>
       <longName>REPEATER</longName>
       <frequency units="MHz">439.000000</frequency>
@@ -21,7 +21,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="1">
+    <memory location="2">
       <shortName>QRV 1</shortName>
       <longName>QRV 1</longName>
       <frequency units="MHz">145.575000</frequency>
@@ -41,7 +41,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="2">
+    <memory location="3">
       <shortName>QRV 2</shortName>
       <longName>QRV 2</longName>
       <frequency units="MHz">433.575000</frequency>
@@ -61,7 +61,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="3">
+    <memory location="4">
       <shortName>1200 F</shortName>
       <longName>1200 FSK</longName>
       <frequency units="MHz">145.950000</frequency>
@@ -81,7 +81,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="4">
+    <memory location="5">
       <shortName>2400 F</shortName>
       <longName>2400 FSK</longName>
       <frequency units="MHz">430.725000</frequency>

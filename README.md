@@ -19,3 +19,7 @@ This is a [Chirp](http://chirp.danplanet.com/projects/chirp/wiki/Home) dump of
 useful frequencies at OHM2013. You can use Chirp to program the memories of
 various brand of radios. Check out their site to see if your device is
 supported.
+
+# Entries
+
+QRV1 and QRV2 will be the calling frequencies used during the event.
