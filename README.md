@@ -32,3 +32,12 @@ supported.
   Slot 10-19    Event digital frequencies
   Slot 20-29    Local voice repeaters, not related to the event
   Slot 30-38    PMR frequencies, limit power to 500mW ERP (see DISCLAIMER)
+
+# Getting your radio programmed
+
+In the [Mononoke village](https://ohm2013.org/wiki/Village:Mononoke) we'll have
+some programming cables available to get your portable radio programmed. We
+should be able to program most Kenwood-plug type radios. Mind you that this is
+completely at your own risk and we take no responsibility if your radio gets
+damaged, it's always best to bring your own programming cable certified for
+your brand and type of radio.
