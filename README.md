@@ -1,6 +1,6 @@
 # HAM radio at OHM2013
 
-# DISCLAIMER
+## DISCLAIMER
 
 For transmitting on these frequencies, valid HAM radio license is REQUIRED. If
 you are using the PMR frequencies, you must obseve the regulations for ISM band
@@ -18,14 +18,14 @@ license equivalent class would be "N".
 **It's prohibited for people that are not part of the OHM2013 organisation to
 transmit on the frequencies registered at slots 4-6!**
 
-# About
+## About
 
 This is a [Chirp](http://chirp.danplanet.com/projects/chirp/wiki/Home) dump of
 useful frequencies at OHM2013. You can use Chirp to program the memories of
 various brand of radios. Check out their site to see if your device is
 supported.
 
-# Entries
+## Entries
 
     Slot 1        Event voice repeater
     Slot 2        Event simplex frequency on VHF
@@ -36,7 +36,7 @@ supported.
     Slot 20-29    Local voice repeaters, not related to the event
     Slot 30-38    PMR frequencies, limit power to 500mW ERP (see DISCLAIMER)
 
-# Getting your radio programmed
+## Getting your radio programmed
 
 In the [Mononoke village](https://ohm2013.org/wiki/Village:Mononoke) we'll have
 some programming cables available to get your portable radio programmed. We
