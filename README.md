@@ -15,6 +15,9 @@ prefix their callsign with `PA/` when transmitting from the Netherlands.
 Holders of a CEPT Novice License are to prefix their callsign with `PD/`, local
 license equivalent class would be "N".
 
+**It's prohibited for people that are not part of the OHM2013 organisation to
+transmit on the frequencies registered at slots 4-6!**
+
 # About
 
 This is a [Chirp](http://chirp.danplanet.com/projects/chirp/wiki/Home) dump of
