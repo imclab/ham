@@ -218,7 +218,7 @@
       <squelchSetting/>
       <duplex>none</duplex>
       <offset units="MHz">0.000000</offset>
-      <mode>USB</mode>
+      <mode>AM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
     <memory location="14">
@@ -238,7 +238,7 @@
       <squelchSetting/>
       <duplex>none</duplex>
       <offset units="MHz">0.000000</offset>
-      <mode>CW</mode>
+      <mode>AM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
     <memory location="15">
