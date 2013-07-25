@@ -24,14 +24,14 @@ supported.
 
 # Entries
 
-  Slot 1        Event voice repeater
-  Slot 2        Event simplex frequency on VHF
-  Slot 3        Event simplex frequency on UHF
-  Slot 4-6      Event voice channels, reserved for the organisation
-  Slot 7-9      Room for special requests, such as people using LPD
-  Slot 10-19    Event digital frequencies
-  Slot 20-29    Local voice repeaters, not related to the event
-  Slot 30-38    PMR frequencies, limit power to 500mW ERP (see DISCLAIMER)
+    Slot 1        Event voice repeater
+    Slot 2        Event simplex frequency on VHF
+    Slot 3        Event simplex frequency on UHF
+    Slot 4-6      Event voice channels, reserved for the organisation
+    Slot 7-9      Room for special requests, such as people using LPD
+    Slot 10-19    Event digital frequencies
+    Slot 20-29    Local voice repeaters, not related to the event
+    Slot 30-38    PMR frequencies, limit power to 500mW ERP (see DISCLAIMER)
 
 # Getting your radio programmed
 
