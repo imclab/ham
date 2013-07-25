@@ -2,8 +2,8 @@
 <radio version="0.1.1">
   <memories>
     <memory location="1">
-      <shortName>REPEAT</shortName>
-      <longName>REPEATER</longName>
+      <shortName>PI2OHM</shortName>
+      <longName>PI2OHM</longName>
       <frequency units="MHz">439.000000</frequency>
       <squelch id="rtone" type="repeater">
         <tone>88.5</tone>
@@ -142,8 +142,8 @@
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
     <memory location="10">
-      <shortName>1200 F</shortName>
-      <longName>1200 FSK</longName>
+      <shortName>1200BD</shortName>
+      <longName>1200bd</longName>
       <frequency units="MHz">144.950000</frequency>
       <squelch id="rtone" type="repeater">
         <tone>88.5</tone>
@@ -162,8 +162,8 @@
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
     <memory location="11">
-      <shortName>2400 F</shortName>
-      <longName>2400 FSK</longName>
+      <shortName>2400BD</shortName>
+      <longName>2400bd</longName>
       <frequency units="MHz">434.500000</frequency>
       <squelch id="rtone" type="repeater">
         <tone>88.5</tone>
