@@ -141,6 +141,26 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
+    <memory location="8">
+      <shortName>MONONOKE</shortName>
+      <longName>Mononoke</longName>
+      <frequency units="MHz">433.250000</frequency>
+      <squelch id="rtone" type="repeater">
+        <tone>71.9</tone>
+      </squelch>
+      <squelch id="ctone" type="ctcss">
+        <tone>71.9</tone>
+      </squelch>
+      <squelch id="dtcs" type="dtcs">
+        <code>023</code>
+        <polarity>NN</polarity>
+      </squelch>
+      <squelchSetting>ctone</squelchSetting>
+      <duplex>none</duplex>
+      <offset units="MHz">0.000000</offset>
+      <mode>FM</mode>
+      <tuningStep units="kHz">5.00000</tuningStep>
+    </memory>
     <memory location="10">
       <shortName>1200BD</shortName>
       <longName>1200bd</longName>
@@ -521,7 +541,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="30">
+    <memory location="31">
       <shortName>PMR1</shortName>
       <longName>PMR1</longName>
       <frequency units="MHz">446.006250</frequency>
@@ -541,7 +561,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="31">
+    <memory location="32">
       <shortName>PMR2</shortName>
       <longName>PMR2</longName>
       <frequency units="MHz">446.018750</frequency>
@@ -561,7 +581,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="32">
+    <memory location="33">
       <shortName>PMR3</shortName>
       <longName>PMR3</longName>
       <frequency units="MHz">446.031250</frequency>
@@ -581,7 +601,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="33">
+    <memory location="34">
       <shortName>PMR4</shortName>
       <longName>PMR4</longName>
       <frequency units="MHz">446.043750</frequency>
@@ -601,7 +621,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="34">
+    <memory location="35">
       <shortName>PMR5</shortName>
       <longName>PMR5</longName>
       <frequency units="MHz">446.056250</frequency>
@@ -621,7 +641,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="35">
+    <memory location="36">
       <shortName>PMR6</shortName>
       <longName>PMR6</longName>
       <frequency units="MHz">446.068750</frequency>
@@ -641,7 +661,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="36">
+    <memory location="37">
       <shortName>PMR7</shortName>
       <longName>PMR7</longName>
       <frequency units="MHz">446.081250</frequency>
@@ -661,7 +681,7 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="37">
+    <memory location="38">
       <shortName>PMR8</shortName>
       <longName>PMR8</longName>
       <frequency units="MHz">446.093750</frequency>
