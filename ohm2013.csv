@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-1,PI2OHM,439.000000,-,7.600000,,88.5,88.5,023,NN,FM,5.00,,Voice repeater PE1PIP,,,,
+1,OE5XML,438.975000,-,7.600000,,88.5,88.5,023,NN,FM,5.00,,Voice repeater,,,,
 2,QRV 1,145.575000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,VHF calling frequency,,,,
 3,QRV 2,433.575000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,UHF calling frequency,,,,
 4,OHM 1,455.805000,,0.000000,TSQL,94.8,94.8,023,NN,FM,5.00,,OHM2013 general,,,,

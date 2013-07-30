@@ -2,9 +2,9 @@
 <radio version="0.1.1">
   <memories>
     <memory location="1">
-      <shortName>PI2OHM</shortName>
-      <longName>PI2OHM</longName>
-      <frequency units="MHz">439.000000</frequency>
+      <shortName>OE5XML</shortName>
+      <longName>OE5XML</longName>
+      <frequency units="MHz">438.975000</frequency>
       <squelch id="rtone" type="repeater">
         <tone>88.5</tone>
       </squelch>
