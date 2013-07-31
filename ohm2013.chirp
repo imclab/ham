@@ -141,23 +141,23 @@
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
-    <memory location="8">
-      <shortName>MONONOKE</shortName>
-      <longName>Mononoke</longName>
-      <frequency units="MHz">433.250000</frequency>
+    <memory location="9">
+      <shortName>MONKEY</shortName>
+      <longName>MONKEY</longName>
+      <frequency units="MHz">455.893750</frequency>
       <squelch id="rtone" type="repeater">
-        <tone>71.9</tone>
+        <tone>94.8</tone>
       </squelch>
       <squelch id="ctone" type="ctcss">
-        <tone>71.9</tone>
+        <tone>94.8</tone>
       </squelch>
       <squelch id="dtcs" type="dtcs">
         <code>023</code>
         <polarity>NN</polarity>
       </squelch>
-      <squelchSetting>ctone</squelchSetting>
+      <squelchSetting/>
       <duplex>none</duplex>
-      <offset units="MHz">0.000000</offset>
+      <offset units="MHz">0.600000</offset>
       <mode>FM</mode>
       <tuningStep units="kHz">5.00000</tuningStep>
     </memory>
